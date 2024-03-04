@@ -4,6 +4,7 @@ public class Main {
         methodmin(array);
         methodmax(array);
         System.out.println(" ");
+        System.out.println(" ");
     }
     public static void methodmin(int[] array) {
         int arraymin = array[0];
